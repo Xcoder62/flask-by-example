@@ -1,2 +1,5 @@
 # Distribution / packaging
 flask-venv/
+
+# Complied Files / Optimized
+__pycache__/
