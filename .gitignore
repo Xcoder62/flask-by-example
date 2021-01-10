@@ -3,6 +3,7 @@ flask-venv/
 
 # Complied Files / Optimized
 __pycache__/
+*.rdb
 
 # Reports / results
 *.csv
